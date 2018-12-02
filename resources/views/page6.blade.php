@@ -11,7 +11,7 @@
   <body>
       
       <div class="pure-menu pure-menu-horizontal toolbar-custom">
-    <a href="#" class="pure-menu-heading pure-menu-link">HOME</a>
+    <a href="/" class="pure-menu-heading pure-menu-link">HOME</a>
     <ul class="pure-menu-list ">
         <li class="pure-menu-item"><a href="/page1" class="pure-menu-link">Summary</a></li>
         <li class="pure-menu-item"><a href="#" class="pure-menu-link">Install</a></li>
