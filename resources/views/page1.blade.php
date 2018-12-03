@@ -15,8 +15,8 @@
     <ul class="pure-menu-list ">
         <li class="pure-menu-item"><a href="/page1" class="pure-menu-link">Summary</a></li>
         <li class="pure-menu-item"><a href="/page2" class="pure-menu-link">Install</a></li>
-        <li class="pure-menu-item"><a href="#" class="pure-menu-link">Tutorial</a></li>
-        <li class="pure-menu-item"><a href="#" class="pure-menu-link">Results</a></li>
+        <li class="pure-menu-item"><a href="/page3" class="pure-menu-link">Tutorial</a></li>
+        <li class="pure-menu-item"><a href="/page4" class="pure-menu-link">Results</a></li>
         <li class="pure-menu-item"><a href="/page5" class="pure-menu-link">Conclusion</a></li>
         <li class="pure-menu-item"><a href="/page6" class="pure-menu-link">Credits</a></li>
     </ul>
