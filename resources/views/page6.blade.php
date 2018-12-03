@@ -25,13 +25,13 @@
 <div class="contributors">
     
    <img src="{{asset('images/p1.png')}}"> 
-    <p>Gabriel did Conclusion page and Credits page</p>
+    <p>Gabriel Albu did Conclusion page and Credits page</p>
     
    <img src="{{asset('images/p2.png')}}"> 
-    <p>Ali did Tutorial page and Results page</p>
+    <p>Ali Sherwani did Tutorial page and Results page</p>
     
-   <img src="{{asset('images/p3.png')}}"> 
-    <p>Ramtin did Install page and Summary page</p>
+   <img src="{{asset('images/ra.png')}}"> 
+    <p>Ramtin Azari did Install page and Summary page</p>
     
 </div>
   </body>
