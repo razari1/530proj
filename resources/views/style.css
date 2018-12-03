@@ -1,0 +1,42 @@
+
+body
+{
+    font-family: 'Noto Sans TC', sans-serif;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    background: url(panda.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+    background-position: 700px;
+    height: 500px;
+}
+
+.title h1
+{
+  position: absolute;
+
+}
+
+article
+{
+    padding-top: 20px;
+}
+
+h1.title
+{
+  color : #4286f4;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+   table, thead, tbody, tr {
+       border: 3px solid #4286f4;
+
+     }
+
+     .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
