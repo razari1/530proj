@@ -24,10 +24,10 @@
       
 <div class="contributors">
     
-   <img src="{{asset('images/p1.png')}}"> 
+   <img src="{{asset('images/gabe.jpg')}}" height=410> 
     <p>Gabriel Albu did Conclusion page and Credits page</p>
     
-   <img src="{{asset('images/p2.png')}}"> 
+   <img src="{{asset('images/ali.jpg')}}" height=410> 
     <p>Ali Sherwani did Tutorial page and Results page</p>
     
    <img src="{{asset('images/ra.png')}}"> 
