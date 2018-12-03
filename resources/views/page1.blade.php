@@ -14,7 +14,7 @@
     <a href="/" class="pure-menu-heading pure-menu-link">HOME</a>
     <ul class="pure-menu-list ">
         <li class="pure-menu-item"><a href="/page1" class="pure-menu-link">Summary</a></li>
-        <li class="pure-menu-item"><a href="#" class="pure-menu-link">Install</a></li>
+        <li class="pure-menu-item"><a href="/page2" class="pure-menu-link">Install</a></li>
         <li class="pure-menu-item"><a href="#" class="pure-menu-link">Tutorial</a></li>
         <li class="pure-menu-item"><a href="#" class="pure-menu-link">Results</a></li>
         <li class="pure-menu-item"><a href="/page5" class="pure-menu-link">Conclusion</a></li>
@@ -35,6 +35,7 @@
       <h3>Who Uses It?/What Kind of Sites?</h3>
       <p>Any developer/site who don't want reduced performance due to the large size of frameworks like Bootstrap would make use of Pure.</p>
     </div>
+    <br>
 
     <img src="{{asset('images/lara.png')}}">
     <div class="mycontent">
